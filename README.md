@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This project is no longer maintained.** Its functionality has been superseded by [Tailwind CSS](https://tailwindcss.com) and modern CSS features (custom properties, nesting, container queries).
+
 # An atomic CSS framework.
 
 [![Travis Status](https://travis-ci.org/fabiommendes/mendeleev.css.svg?branch=master)](https://travis-ci.org/fabiommendes/mendeleev.css?branch=master)
